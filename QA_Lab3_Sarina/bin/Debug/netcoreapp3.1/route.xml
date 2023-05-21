@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Izdelie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Stol</name>
+  <Tov1 />
+  <Tov2 />
+  <Tov3 />
+  <n1>7</n1>
+  <n2>8</n2>
+  <n3>9</n3>
+  <discount>0</discount>
+</Izdelie>
