@@ -1,0 +1,9 @@
+<map id="sharpLab3.Fossil.Cost" name="sharpLab3.Fossil.Cost">
+<area shape="rect" id="Node000001" title="Метод, возвращающий общую стоимость ископаемого" alt="" coords="257,56,408,83"/>
+<area shape="rect" id="Node000002" href="$classsharp_lab3_1_1_mine.html#a79428588ae64268af2c37bcdf78b1f57" title="Метод, возвращающий доходность рудника, равную стоимости всего добытого минус затраты" alt="" coords="35,5,179,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,55,169,35,170,30,256,50"/>
+<area shape="rect" id="Node000003" href="$classsharp_lab3_1_1_mine.html#ad0102b84a699236b7edb8105befbb433" title="Метод, возвращающий самое ценное полезное ископаемое из трех" alt="" coords="19,56,195,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,72,196,72,196,67,242,67"/>
+<area shape="rect" id="Node000004" href="$classsharp_lab3_1_1_admixture.html#a0835bd210bfb59b5dfa2a15f07cb8465" title="Метод, расчитывающий стоимость ископаемого с примесями" alt="" coords="5,107,209,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,89,170,109,169,103,255,84"/>
+</map>

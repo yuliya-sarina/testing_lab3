@@ -1,0 +1,5 @@
+<map id="sharpLab3.Fossil" name="sharpLab3.Fossil">
+<area shape="rect" id="Node000001" title="Класс Полезное ископаемое" alt="" coords="17,5,138,32"/>
+<area shape="rect" id="Node000002" href="$classsharp_lab3_1_1_admixture.html" title="Примеси в ископаемом. Класс наследуется от Fossil inherit Fossil." alt="" coords="5,80,150,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,47,80,80,75,80,75,47"/>
+</map>
